@@ -24,7 +24,7 @@ Custom Laravel validation rule for checking ZIP file content.
 You can install the package via composer:
 
 ```bash
-composer require orkhanahmadov/laravel-zip-validator
+composer require Eugene10290/laravel-zip-validator
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "orkhanahmadov/laravel-zip-validator",
+    "name": "Eugene10290/laravel-zip-validator",
     "description": "Laravel ZIP file content validator",
     "keywords": [
         "orkhanahmadov",
@@ -8,7 +8,7 @@
         "zip",
         "zip validation"
     ],
-    "homepage": "https://github.com/orkhanahmadov/laravel-zip-validator",
+    "homepage": "https://github.com/Eugene10290/laravel-zip-validator.git",
     "license": "MIT",
     "type": "library",
     "authors": [
