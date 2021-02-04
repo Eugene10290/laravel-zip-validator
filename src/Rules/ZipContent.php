@@ -51,7 +51,7 @@ class ZipContent implements Rule
      */
     public function message(): string
     {
-        return __('zipValidator::messages.failed', [
+        return __('zipvalidator.failed', [
             'files' => $this->failedFiles->implode(', '),
         ]);
     }
